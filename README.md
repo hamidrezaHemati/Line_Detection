@@ -1,2 +1,2 @@
 # Line_Detection
-This project aims to implement a navigator module for a robot that moves on specific lines on a path.
+This project aims to implement a navigator module for a robot that moves on specific lines on a path. To implement this module 3 LDR sensor was used to detect the light reflected from the surface and based on the amount of reflection the path can be detected. Also with the help of 3 LDR that placed on a straight line, we can figure out witch way to move the robot in order to keep it on a straight line.
